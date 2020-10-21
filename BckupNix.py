@@ -8,6 +8,8 @@
 #License - MIT License
 #Creator - Max Williams
 #Creation date - 10/18/2020
+#Script Location - https://github.com/maxmit/BckupNix
+#Script Documentation - https://maxmit.github.io/BckInfo/
 
 #Script Function:
 #To clean up multiple files and folders 

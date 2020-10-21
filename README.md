@@ -20,6 +20,11 @@ License - MIT License
 
 Script Function:
 To clean up multiple files and folders in your directory into one directory/folder.
+
+For online information and documentation about this Project, please go to::
+https://maxmit.github.io/BckInfo/
+
+===========
 Start Learning
 
 Want to learn how to code/program but don't know where to start, youtube is a great place to go, I would suggest learning Python3 (as that is what I'm currently using for this project).
